@@ -1,0 +1,3 @@
+#+title: ob-duckdb
+
+This little file allows running duckdb queries in org mode code blocks.
